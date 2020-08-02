@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Labs\parall\lab3-1\lab3-1\Source.cpp(15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Labs\parall\lab3-1\lab3-1\Source.cpp(16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Labs\parall\lab3-1\lab3-1\Source.cpp(26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\Labs\parall\lab3-1\lab3-1\Source.cpp(50): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab3-1.vcxproj -> E:\Labs\parall\lab3-1\lab3-1\Debug\lab3-1.exe
